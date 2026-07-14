@@ -39,15 +39,6 @@ Ao longo da formação venho desenvolvendo conhecimentos em manutenção de comp
 
 ---
 
-### 🚀 Projetos em Destaque
-
-**🎮 [loja_games](https://github.com/BarbaraGund/loja_games)**
-Landing page de loja de games, com página de contato.
-`HTML` `CSS`
-
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
