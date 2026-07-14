@@ -78,7 +78,7 @@ repeatCount="indefinite"/>
 
 <text
 x="80"
-y="120"
+y="160"
 font-size="72"
 font-family="Segoe UI"
 font-weight="700"
@@ -90,24 +90,12 @@ Bárbara Gund
 
 <text
 x="80"
-y="185"
-font-size="30"
-font-family="Segoe UI"
-fill="#ffffff"
-font-weight="700">
-
-TÉCNICO DE TI
-
-</text>
-
-<text
-x="80"
 y="225"
 font-size="22"
 font-family="Segoe UI"
 fill="#FDE68A">
 
-Técnica em Informática • Senac RS
+Técnica em Informática
 
 </text>
 
