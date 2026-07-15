@@ -12,9 +12,9 @@
 
 ### 👩‍💻 Sobre mim
 
-Estudante de **Técnico em Informática** pelo Senac RS (2024–2026), em transição de carreira para a área de Tecnologia da Informação.
+Estudante de **Técnico em Informática** pelo Senac RS, em transição de carreira para a área de Tecnologia da Informação.
 
-Ao longo da formação venho desenvolvendo conhecimentos em manutenção de computadores, redes, sistemas operacionais, banco de dados e desenvolvimento web. Antes de migrar para TI, atuo como cuidadora infantil — experiência que me ensinou a resolver problemas rapidamente, ter paciência e me comunicar com clareza, habilidades que levo comigo para o atendimento e suporte ao usuário.
+Ao longo da minha formação, venho desenvolvendo conhecimentos em manutenção de computadores, redes, sistemas operacionais, banco de dados e desenvolvimento web. Atualmente, atuo como cuidadora infantil, experiência que me permitiu desenvolver habilidades como resolução ágil de problemas, paciência, organização e comunicação clara. Levo essas competências para a área de TI, especialmente no atendimento e suporte ao usuário, buscando sempre oferecer um serviço eficiente, atencioso e de qualidade.
 
 - 🎓 Cursando Técnico em Informática — Senac RS.
 - 🎯 Em busca da primeira oportunidade na área da Ti.
