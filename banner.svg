@@ -1,148 +1,149 @@
-<svg width="1200" height="300"
-viewBox="0 0 1200 300"
-xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 300" width="100%" role="img" aria-label="Banner animado: Técnico em Informática, Help Desk e Suporte N1" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiYWNmMTU0NS1kMDU3LTQ4ZmMtYmY3ZC1kNDMyNWU4NmJlNmUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNAXnw/D8CNFSgBo2H+WB5oAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4NzUzZDc1OS1mZWM0LTQyNTItYjY3YS1hMmZkNzBiMzQ1ZTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoZEFMbXFTx+1RlDUt+aQbRAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggGpuAG98T/jPF5y7fv8aK8rQhc1AXAM6CgddNtA6VIcKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNVQWs9WBkKXf7icK4MlKH4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMu8ipoqRT+pVdtr+YKF+gH/VUhrkETVFnlERD1qUx+DZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQE2Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJhY2YxNTQ1LWQwNTctNDhmYy1iZjdkLWQ0MzI1ZTg2YmU2ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjhiN2EwMzA5LWM4ZTQtNDg2Mi1hYWUxLTdjYzlkYjNjNjJmNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAam4Ab3xP+M8XnLt+/xorytCFzUBcAzoKB1020DpUhwqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggXasLQuTL+2mAIFD6qbCSEMhgl7NcoTQOBe0wOYnGiv+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggz/Rh0++k0lzMKaCpughvmi332g7m9N6nh1bOA4GyVUp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQB5NO1nZCUjxyY4BWjivew4YUFHIiMiYlu9Yn9lSI7ctFaxQU8Ar7maxXVkszSslQ5RLsUDtsMZHjIkUGq9CcCQ=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#0b1d3a;#1a1033;#0d1117" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#14233f">
+        <animate attributeName="stop-color" values="#14233f;#1d1340;#0c2b3a;#14233f" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
 
-<defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-opacity="0.08" stroke-width="1"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="6s" repeatCount="indefinite"/>
+    </pattern>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
 
-<stop offset="0%" stop-color="#1D4ED8"/>
-<stop offset="35%" stop-color="#7C3AED"/>
-<stop offset="70%" stop-color="#EC4899"/>
-<stop offset="100%" stop-color="#F97316"/>
+    <clipPath id="clipTitle">
+      <rect x="60" y="120" height="60" width="0">
+        <animate attributeName="width" values="0;640;640;0" keyTimes="0;0.3;0.9;1" dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipCmd">
+      <rect x="60" y="62" height="34" width="0">
+        <animate attributeName="width" values="0;330;330;0" keyTimes="0;0.2;0.9;1" dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clipSub">
+      <rect x="60" y="196" height="36" width="0">
+        <animate attributeName="width" values="0;0;640;640;0" keyTimes="0;0.3;0.5;0.9;1" dur="10s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
 
-</linearGradient>
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Courier New', monospace; }
+    .cmd { fill: #3fb950; font-size: 20px; }
+    .title { fill: #f0f6fc; font-size: 38px; font-weight: 700; }
+    .sub { fill: #8b949e; font-size: 20px; }
+    .ok { fill: #3fb950; font-size: 16px; animation: blink 1.6s ease-in-out infinite; }
+    .flow { stroke-dasharray: 6 8; animation: dash 1.4s linear infinite; }
+    .float { animation: float 5s ease-in-out infinite; }
+    .float2 { animation: float 7s ease-in-out infinite reverse; }
+    @keyframes dash { to { stroke-dashoffset: -28; } }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+  </style>
 
-<linearGradient id="text">
+  <!-- Fundo -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
 
-<stop offset="0%" stop-color="#ffffff"/>
-<stop offset="100%" stop-color="#FFE082"/>
+  <!-- Linha de varredura -->
+  <rect x="0" y="-4" width="1200" height="3" fill="#58a6ff" opacity="0.18">
+    <animate attributeName="y" values="-4;300" dur="5s" repeatCount="indefinite"/>
+  </rect>
 
-</linearGradient>
+  <!-- Rede (lado direito) -->
+  <g>
+    <!-- Linhas -->
+    <g stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1.6" fill="none">
+      <path class="flow" d="M930 140 L760 80"/>
+      <path class="flow" d="M930 140 L880 235"/>
+      <path class="flow" d="M930 140 L1040 60"/>
+      <path class="flow" d="M930 140 L1110 190"/>
+      <path class="flow" d="M930 140 L1030 255"/>
+      <path class="flow" d="M760 80 L880 235" stroke-opacity="0.25"/>
+      <path class="flow" d="M1040 60 L1110 190" stroke-opacity="0.25"/>
+    </g>
 
-</defs>
+    <!-- Pacotes de dados -->
+    <g fill="#3fb950">
+      <circle r="4"><animateMotion dur="2.4s" repeatCount="indefinite" path="M760 80 L930 140"/></circle>
+      <circle r="4"><animateMotion dur="3.1s" repeatCount="indefinite" path="M930 140 L880 235"/></circle>
+      <circle r="4"><animateMotion dur="2.8s" repeatCount="indefinite" path="M1040 60 L930 140"/></circle>
+      <circle r="4"><animateMotion dur="3.6s" repeatCount="indefinite" path="M930 140 L1110 190"/></circle>
+      <circle r="4"><animateMotion dur="2.2s" repeatCount="indefinite" path="M1030 255 L930 140"/></circle>
+    </g>
 
-<!-- fundo -->
+    <!-- Hub central -->
+    <circle cx="930" cy="140" r="60" fill="url(#glow)">
+      <animate attributeName="r" values="45;70;45" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="930" cy="140" r="16" fill="#0d1117" stroke="#58a6ff" stroke-width="3"/>
+    <circle cx="930" cy="140" r="6" fill="#58a6ff"/>
+    <circle cx="930" cy="140" r="16" fill="none" stroke="#58a6ff" stroke-width="2">
+      <animate attributeName="r" values="16;40" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
 
-<rect width="1200" height="300" fill="url(#bg)"/>
+    <!-- Nós -->
+    <g class="float">
+      <circle cx="760" cy="80" r="10" fill="#0d1117" stroke="#a371f7" stroke-width="2.5"/>
+      <circle cx="760" cy="80" r="4" fill="#a371f7"/>
+    </g>
+    <g class="float2">
+      <circle cx="880" cy="235" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="2.5"/>
+      <circle cx="880" cy="235" r="4" fill="#58a6ff"/>
+    </g>
+    <g class="float">
+      <circle cx="1040" cy="60" r="10" fill="#0d1117" stroke="#3fb950" stroke-width="2.5"/>
+      <circle cx="1040" cy="60" r="4" fill="#3fb950"/>
+    </g>
+    <g class="float2">
+      <circle cx="1110" cy="190" r="10" fill="#0d1117" stroke="#f0883e" stroke-width="2.5"/>
+      <circle cx="1110" cy="190" r="4" fill="#f0883e"/>
+    </g>
+    <g class="float">
+      <circle cx="1030" cy="255" r="10" fill="#0d1117" stroke="#a371f7" stroke-width="2.5"/>
+      <circle cx="1030" cy="255" r="4" fill="#a371f7"/>
+    </g>
+  </g>
 
-<!-- linhas decorativas -->
+  <!-- Partículas flutuando ao fundo -->
+  <g fill="#58a6ff" opacity="0.5">
+    <circle cx="120" cy="280" r="2"><animate attributeName="cy" values="290;-10" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="290" r="2"><animate attributeName="cy" values="290;-10" dur="12s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="290" r="1.5"><animate attributeName="cy" values="290;-10" dur="10s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="290" r="2.5"><animate attributeName="cy" values="290;-10" dur="14s" begin="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1170" cy="290" r="2"><animate attributeName="cy" values="290;-10" dur="11s" begin="3s" repeatCount="indefinite"/></circle>
+  </g>
 
-<g stroke="white" opacity=".08">
+  <!-- Texto (efeito de digitação) -->
+  <g class="mono">
+    <g clip-path="url(#clipCmd)">
+      <text class="cmd" x="60" y="86">$ ./resolver_chamado.sh --nivel N1</text>
+    </g>
+    <g clip-path="url(#clipTitle)">
+      <text class="title" x="60" y="160">Técnico em Informática</text>
+    </g>
+    <g clip-path="url(#clipSub)">
+      <text class="sub" x="60" y="222">Help Desk • Suporte N1 • Atendimento</text>
+    </g>
 
-<path d="M0 40 H1200"/>
-<path d="M0 90 H1200"/>
-<path d="M0 140 H1200"/>
-<path d="M0 190 H1200"/>
-<path d="M0 240 H1200"/>
+    <!-- Cursor piscando -->
+    <rect x="60" y="130" width="14" height="34" fill="#58a6ff">
+      <animate attributeName="x" values="60;700;700;60" keyTimes="0;0.3;0.9;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
 
-</g>
-
-<!-- partículas -->
-
-<g fill="white">
-
-<circle cx="100" cy="60" r="2">
-<animate attributeName="opacity"
-values="0;1;0"
-dur="3s"
-repeatCount="indefinite"/>
-</circle>
-
-<circle cx="220" cy="230" r="3">
-<animate attributeName="opacity"
-values="1;0;1"
-dur="5s"
-repeatCount="indefinite"/>
-</circle>
-
-<circle cx="450" cy="90" r="2">
-<animate attributeName="opacity"
-values="0;1;0"
-dur="4s"
-repeatCount="indefinite"/>
-</circle>
-
-<circle cx="1100" cy="80" r="2">
-<animate attributeName="opacity"
-values="1;0;1"
-dur="6s"
-repeatCount="indefinite"/>
-</circle>
-
-</g>
-
-<!-- bloco esquerdo -->
-
-<g>
-
-<text
-x="80"
-y="160"
-font-size="72"
-font-family="Segoe UI"
-font-weight="700"
-fill="url(#text)">
-
-Bárbara Gund
-
-</text>
-
-<text
-x="80"
-y="225"
-font-size="22"
-font-family="Segoe UI"
-fill="#FDE68A">
-
-Técnica em Informática
-
-</text>
-
-</g>
-
-<!-- cubo -->
-
-<g transform="translate(930 150)">
-
-<animateTransform
-attributeName="transform"
-type="rotate"
-from="0"
-to="360"
-dur="12s"
-repeatCount="indefinite"
-additive="sum"/>
-
-<!-- frente -->
-
-<rect
-x="-45"
-y="-45"
-width="90"
-height="90"
-fill="none"
-stroke="#ffffff"
-stroke-width="3"/>
-
-<!-- trás -->
-
-<rect
-x="-20"
-y="-70"
-width="90"
-height="90"
-fill="none"
-stroke="#FFE082"
-stroke-width="3"/>
-
-<!-- conexões -->
-
-<line x1="-45" y1="-45" x2="-20" y2="-70" stroke="white" stroke-width="3"/>
-<line x1="45" y1="-45" x2="70" y2="-70" stroke="white" stroke-width="3"/>
-<line x1="-45" y1="45" x2="-20" y2="20" stroke="white" stroke-width="3"/>
-<line x1="45" y1="45" x2="70" y2="20" stroke="white" stroke-width="3"/>
-
-</g>
-
+    <text class="ok" x="60" y="268">● chamado resolvido com sucesso</text>
+  </g>
 </svg>
