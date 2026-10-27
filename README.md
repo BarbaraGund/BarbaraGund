@@ -14,13 +14,11 @@
 
 Formada no curso **Técnico em Informática** pelo Senac RS, em transição de carreira para a área de Tecnologia da Informação.
 
-Ao longo da minha formação, venho desenvolvendo conhecimentos em manutenção de computadores, redes, sistemas operacionais, banco de dados e desenvolvimento web. Atualmente, atuo como cuidadora infantil, experiência que me permitiu desenvolver habilidades como resolução ágil de problemas, paciência, organização e comunicação clara. Levo essas competências para a área de TI, especialmente no atendimento e suporte ao usuário, buscando sempre oferecer um serviço eficiente, atencioso e de qualidade.
+Durante a minha formação, desenvolvi conhecimentos em manutenção de computadores, redes, sistemas operacionais, banco de dados e desenvolvimento web. Atualmente, atuo como cuidadora infantil, experiência que me permitiu desenvolver habilidades como resolução ágil de problemas, paciência, organização e comunicação clara. Levo essas competências para a área de TI, especialmente no atendimento e suporte ao usuário, buscando sempre oferecer um serviço eficiente, atencioso e de qualidade.
 
-- 🎓 Técnico em Informática — Senac RS.
-- 🎯 Em busca da primeira oportunidade na área da Ti.
-- 🌱 Aprimorando conhecimentos em redes, banco de dados, manutenção de computadores, lógica de programação, banco de dados e desenvolvimento web.
-
----
+- 🎓 Técnica em Informática — Senac RS
+- 🎯 Em busca da primeira oportunidade na área de TI, com foco em Suporte N1 e Help Desk
+- 🌱 Continuo aprimorando meus conhecimentos em redes, banco de dados, manutenção de computadores, lógica de programação e desenvolvimento web
 
 ### 🛠️ Tecnologias e Ferramentas
 
