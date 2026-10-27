@@ -44,7 +44,7 @@ Durante a minha formação, desenvolvi conhecimentos em manutenção de computad
 
 <div align="center">
 
-📫 **Aberta a oportunidades de estágio e primeiro emprego em Técnico de TI**
+📫 **Aberta a oportunidades de primeiro emprego em Técnico de TI**
 
 [![Gmail](https://img.shields.io/badge/Email-1F3864?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbara.gund2015@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarbaraGund)
